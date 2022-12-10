@@ -1,0 +1,219 @@
+{
+  "nombre": "m",
+  "contraseña": "1",
+  "rol": "Participante",
+  "field_name": {
+    "id": 0,
+    "nombre": "ghjsdfghjsdf",
+    "jugadores": [
+      {
+        "id": 4,
+        "nombre": "Iker Casillas",
+        "posicion": "arquero",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Ericu",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Erico",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Erica",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Kross",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Gavi",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Cedri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Medri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "P12edri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Benzemaaaaa",
+        "posicion": "delantero",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Benzema",
+        "posicion": "delantero",
+        "precio": 1200
+      }
+    ],
+    "puntajeActual": 0,
+    "cantMediocampistas": 5,
+    "cantArqueros": 1,
+    "cantDelanteros": 2,
+    "cantDefensores": 3,
+    "presupuesto": 6692,
+    "alineacion": [
+      {
+        "id": 4,
+        "nombre": "Iker Casillas",
+        "posicion": "arquero",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Ericu",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Erico",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Kross",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Gavi",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Cedri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Medri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Benzemaaaaa",
+        "posicion": "delantero",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Benzema",
+        "posicion": "delantero",
+        "precio": 1200
+      }
+    ],
+    "capitan": null,
+    "dueñoActual": null,
+    "arqueros": [
+      {
+        "id": 4,
+        "nombre": "Iker Casillas",
+        "posicion": "arquero",
+        "precio": 1200
+      }
+    ],
+    "delanteros": [
+      {
+        "id": 2,
+        "nombre": "Benzemaaaaa",
+        "posicion": "delantero",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Benzema",
+        "posicion": "delantero",
+        "precio": 1200
+      }
+    ],
+    "defensas": [
+      {
+        "id": 4,
+        "nombre": "Ericu",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Erico",
+        "posicion": "defensa",
+        "precio": 1200
+      },
+      {
+        "id": 4,
+        "nombre": "Erica",
+        "posicion": "defensa",
+        "precio": 1200
+      }
+    ],
+    "mediocampistas": [
+      {
+        "id": 1,
+        "nombre": "Kross",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 2,
+        "nombre": "Gavi",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Cedri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "Medri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      },
+      {
+        "id": 1,
+        "nombre": "P12edri",
+        "posicion": "mediocampista",
+        "precio": 1200
+      }
+    ],
+    "alineacionMedioCampistas": 0,
+    "alineacionArqueros": 0,
+    "alineacionDefensas": 0,
+    "alineacionDelanteros": 0
+  }
+}

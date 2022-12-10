@@ -1,0 +1,253 @@
+[
+    {
+        "id": 1,
+        "fechaInicio": "12-10-2022",
+        "fechaFinal": "12-12-2022",
+        "nombre": "Liga 1",
+        "partidos": [
+            {
+                "id": 1,
+                "equipoLocal": {
+                    "id": 1,
+                    "nombre": "FC-BARCELONA",
+                    "jugadores": [
+                        {
+                            "id": 1,
+                            "nombre": "Pedri",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Gavi",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Pique",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Eric",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "Neto",
+                            "posicion": "arquero",
+                            "precio": 1200.0
+                        }
+                    ]
+                },
+                "equipoVisitante": {
+                    "id": 2,
+                    "nombre": "REAL MADRID",
+                    "jugadores": [
+                        {
+                            "id": 1,
+                            "nombre": "Kross",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Benzema",
+                            "posicion": "delantero",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Carvajal",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Iker Casillas",
+                            "posicion": "arquero",
+                            "precio": 1200.0
+                        }
+                    ]
+                },
+                "fecha": "15-10-2022",
+                "hora": "1:15 PM",
+                "rendimientoJugadores": []
+            },
+            {
+                "id": 2,
+                "equipoLocal": {
+                    "id": 2,
+                    "nombre": "REAL MADRID",
+                    "jugadores": [
+                        {
+                            "id": 1,
+                            "nombre": "Kross",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Benzema",
+                            "posicion": "delantero",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Carvajal",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Iker Casillas",
+                            "posicion": "arquero",
+                            "precio": 1200.0
+                        }
+                    ]
+                },
+                "equipoVisitante": {
+                    "id": 1,
+                    "nombre": "FC-BARCELONA",
+                    "jugadores": [
+                        {
+                            "id": 1,
+                            "nombre": "Pedri",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "Gavi",
+                            "posicion": "mediocampista",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "Pique",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "Eric",
+                            "posicion": "defensa",
+                            "precio": 1200.0
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "Neto",
+                            "posicion": "arquero",
+                            "precio": 1200.0
+                        }
+                    ]
+                },
+                "fecha": "16-10-2022",
+                "hora": "5:20 PM",
+                "rendimientoJugadores": []
+            }
+        ],
+        "rankingActual": [
+            {
+                "posicion": 1,
+                "nombre": "Juanito",
+                "puntosTotales": 68
+            },
+            {
+                "posicion": 2,
+                "nombre": "Andrea",
+                "puntosTotales": 58
+            },
+            {
+                "posicion": 3,
+                "nombre": "Mateo",
+                "puntosTotales": 48
+            }
+        ],
+        "equipos": [
+            {
+                "id": 1,
+                "nombre": "FC-BARCELONA",
+                "jugadores": [
+                    {
+                        "id": 1,
+                        "nombre": "Pedri",
+                        "posicion": "mediocampista",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 2,
+                        "nombre": "Gavi",
+                        "posicion": "mediocampista",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 3,
+                        "nombre": "Pique",
+                        "posicion": "defensa",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 4,
+                        "nombre": "Eric",
+                        "posicion": "defensa",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 5,
+                        "nombre": "Neto",
+                        "posicion": "arquero",
+                        "precio": 1200.0
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "nombre": "REAL MADRID",
+                "jugadores": [
+                    {
+                        "id": 1,
+                        "nombre": "Kross",
+                        "posicion": "mediocampista",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 2,
+                        "nombre": "Benzema",
+                        "posicion": "delantero",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 3,
+                        "nombre": "Carvajal",
+                        "posicion": "defensa",
+                        "precio": 1200.0
+                    },
+                    {
+                        "id": 4,
+                        "nombre": "Iker Casillas",
+                        "posicion": "arquero",
+                        "precio": 1200.0
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "nombre": "equipazo",
+                "jugadores": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "fechaInicio": "qw",
+        "fechaFinal": "qw",
+        "nombre": "Temporada 2",
+        "partidos": [],
+        "rankingActual": [],
+        "equipos": []
+    }
+]
